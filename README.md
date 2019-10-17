@@ -4,9 +4,9 @@ Documentación para el proyecto de sitio web NOMBREDELSITIO.
 
 Estructura del repositorio:
 
-1. Objetivos: Lean UX Canvas
-2. Estrategia de contenido: mapa del sitio, diagrama de AI
-3. Layout/maquetación: wireframes
+1. Objetivos: [Lean UX Canvas](objetivos/leanuxcanvas.md)
+2. Estrategia de contenido: [mapa del sitio](estrategiacontenidos/mapadelsitio.md), [diagrama](estrategiacontenidos/diagrama.md)
+3. Layout/maquetación: [wireframes](maquetacion/wireframes.md)
 
 ---
 
