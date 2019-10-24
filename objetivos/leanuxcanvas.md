@@ -1,7 +1,7 @@
 # Lean UX canvas
 
 <!--
-Utiliza la plantilla de este documento para recoger vuestro Lean UX Canvas en el proyecto. Escribid solamente debajo de cada título. **No modifiquéis el código HTML, ya que si lo hacéis la tabla no se mostrará correctamente**.
+PRUEBA DE MOD Utiliza la plantilla de este documento para recoger vuestro Lean UX Canvas en el proyecto. Escribid solamente debajo de cada título. **No modifiquéis el código HTML, ya que si lo hacéis la tabla no se mostrará correctamente**.
 -->  
 
 <table markdown="1"><tbody><tr><td markdown="1">
