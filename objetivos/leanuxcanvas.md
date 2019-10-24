@@ -14,7 +14,7 @@ No estar viendo la TV o escuchando la radio el día en el que se emite el progra
 
 **Soluciones**
 
-- Posibilidad de consumir los tres productos en cualquier momento
+- Los tres productos disponibles 24/7 para ser consumidos en cualquier momento
 - Facilitar el contenido entero del material que aparece en los medios (allí solo aparecerá una parte de todo el proceso) -> “para los más curiosos”, ”por si te lo perdiste”, ”más sobre…”
 - Compartir el contenido
 
