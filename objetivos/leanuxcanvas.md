@@ -16,7 +16,7 @@ No estar viendo la TV o escuchando la radio el día en el que se emite el progra
 
 - Posibilidad de consumir los tres productos en cualquier momento
 - Facilitar el contenido entero del material que aparece en los medios (allí solo aparecerá una parte de todo el proceso) -> “para los más curiosos”, ”por si te lo perdiste”, ”más sobre…”
-- Posibilitar al consumidor la opción de compartir el contenido
+- Compartir el contenido
 
 </td><td markdown="1">
 
