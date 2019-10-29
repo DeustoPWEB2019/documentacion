@@ -8,7 +8,7 @@ PRUEBA DE MOD Utiliza la plantilla de este documento para recoger vuestro Lean U
 
 **Problema**
 
-No estar viendo la TV o escuchando la radio el día en el que se emite el programa o el podcast o no comprar el periódico el día en el que se publica la revista. La página web también va a ofrecer la opción de consumir más contenido del que ha aparecido en el programa o en la revista. 
+Hemos observado que nuestros productos no permiten ser consumidos fuera del horario en el que se emiten o del ejemplar del periódico con el que se distribuyen, que está provocando que personas interesadas en nuestro contenido se pierdan nuestros programas por no estar viendo la TV o escuchando la radio el día en el que se emite el programa o el podcast o no comprar el periódico el día en el que se publica la revista. ¿Cómo podemos mejorar para que nuestros contenidos tengan más éxito en términos de personas que los consumen?
 
 </td><td rowspan=2 markdown="1">
 
