@@ -15,7 +15,7 @@ Hemos observado que nuestros productos no permiten ser consumidos fuera del hora
 **Soluciones**
 
 - Los tres productos disponibles 24/7 para ser consumidos en cualquier momento
-- Facilitar el contenido entero del material que aparece en los medios (allí solo aparecerá una parte de todo el proceso) -> “para los más curiosos”, ”por si te lo perdiste”, ”más sobre…”
+- Facilitar el contenido en bruto, y categorizarlo como “para los más curiosos”, ”por si te lo perdiste”, ”más sobre…”
 - Compartir el contenido
 
 </td><td markdown="1">
