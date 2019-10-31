@@ -14,18 +14,20 @@ Hemos observado que nuestros productos no permiten ser consumidos fuera del hora
 
 **Soluciones**
 
-- Los tres productos disponibles 24/7 para ser consumidos en cualquier momento
-- Facilitar el contenido en bruto, y categorizarlo como “para los más curiosos”, ”por si te lo perdiste”, ”más sobre…”
-- Compartir el contenido
+- Posibilidad de consumir los tres productos en cualquier momento.
+- Facilitar el contenidp entero del material que aparece en los medio (allí solo aparecerá una parte de todo el proceso) --> "para los más curiosos", "por si te lo perdiste", "más sobre...".
+- Posibilitar al consumidor la opción de compartir el contenido.
+- Añadir una mosca que haga referencia a la disponibilidad online a las emisiones en directo, tipo "También disponible...", "Ya disponible en... NOMBRE DE LA WEB".
+- Añadis links tipo, "Ya disponible-También disponible en NOMBRE DE LA WEB" al soporte en la web.
 
 </td><td markdown="1">
 
 **Resultados**
 
 - Número de visitas
-- Interacciones
 - Cantidad de “me gusta”
 - Cantidad de veces que se ha compartido 
+- Comentarios
 - Número de visualizaciones o escuchas del contenido audio y audiovisual
 
 
@@ -66,7 +68,13 @@ Nuestro público objetivo serán jóvenes de 18 a 30 años.
 
 **¿Cuál es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante?**
 
+2 -> Enseñar a conocidos los wireframespara saber si nuestras cuenta con un nivel alto de usabilidad
+
+3 -> Leer artículos sobre los intereses que tienen los jóvenes hoy en día y también preguntar sobre ello a personas de nuestra edad
+
 4 -> ENCUESTA sobre si nuestra página web es atractiva, entretenida e informativa
+
+5 -> Sabiendo lo que es la accesibilidad en la web y poniéndolo en práctica
 
 
 </td></tr></tbody></table>
