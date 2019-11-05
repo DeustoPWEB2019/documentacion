@@ -24,11 +24,11 @@ Hemos observado que nuestros productos no permiten ser consumidos fuera del hora
 
 **Resultados**
 
-- Número de visitas
-- Cantidad de “me gusta”
-- Cantidad de veces que se ha compartido 
-- Comentarios
-- Número de visualizaciones o escuchas del contenido audio y audiovisual
+- Número de visitas: 20 veces las visitas del producto emitido en directo
+- Cantidad de “me gusta”: 2% de los visitantes de la web
+- Cantidad de veces que se ha compartido: 5% de las personas que han visitado de la web 
+- Comentarios: que comenten el 5% de las personas que visitan la web
+- Número de visualizaciones o escuchas del contenido audio y audiovisual: entre 30.000 y 40.000 visualizaciones 
 
 
 </td></tr><tr><td markdown="1">
