@@ -11,7 +11,7 @@
          4. Noticiario 4
             - Audio Noticiario 4
     2. **"Política y pipas"**
-        - Audios de las entrevistas
+        - Revista completa
     3. **Título del reportaje de TV**
         1. Reportaje completo
         2. Entrevistas íntegras
