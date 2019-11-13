@@ -13,5 +13,6 @@
     2. **"Política y pipas"**
         - Audios de las entrevistas
     3. **Título del reportaje de TV**
-        1. Entrevistas íntegras
-        2. Más sobre... 
+        1. Reportaje completo
+        2. Entrevistas íntegras
+        3. Más sobre... 
