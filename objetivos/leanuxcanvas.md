@@ -8,7 +8,7 @@ PRUEBA DE MOD Utiliza la plantilla de este documento para recoger vuestro Lean U
 
 **Problema**
 
-Hemos observado que nuestros productos no permiten ser consumidos fuera del horario en el que se emiten o del ejemplar del periódico con el que se distribuyen, que está provocando que personas interesadas en nuestro contenido se pierdan nuestros programas por no estar viendo la TV o escuchando la radio el día en el que se emite el programa o el podcast o no comprar el periódico el día en el que se publica la revista. ¿Cómo podemos mejorar para que nuestros contenidos tengan más éxito en términos de personas que los consumen?
+Hemos observado que nuestros productos no permiten ser consumidos fuera del horario en el que se emiten o del ejemplar del periódico con el que se distribuyen, que está provocando que personas interesadas en nuestro contenido se pierdan nuestros programas por no estar viendo la TV o escuchando la radio el día en el que se emite el programa o el podcast o no comprar el periódico el día en el que se publica la revista. Asimismo, también hemos podido observar que existe una bajada en la compra de prensa escrita y este formato posibilitaría a los jóvenes acceder al contenido sin tener que pagar por ello. ¿Cómo podemos mejorar para que nuestros contenidos tengan más éxito en términos de personas que los consumen?
 
 </td><td rowspan=2 markdown="1">
 
