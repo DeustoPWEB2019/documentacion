@@ -16,3 +16,5 @@
         1. Reportaje completo
         2. Entrevistas íntegras
         3. Más sobre... 
+     4. **Nosotras**
+     5. **Contacta con nosotras**
