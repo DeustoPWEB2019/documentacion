@@ -27,7 +27,7 @@ Ofrecer al público joven contenidos que estimulen el debate político mediante 
 
 **Resultados**
 
-- Difusión
+- Difusión. 1000 visitas el primer mes
 
 
 </td></tr><tr><td markdown="1">
@@ -51,7 +51,7 @@ Nuestro público objetivo serán jóvenes españoles de 17 a 26 años.
 
 **Hipótesis**  
 
-Creemos que podríamos aumentar la difusión a "x" visitas, si los jóvenes de entre 17 y 26 años se involucran con el contenido a través de los comentarios o mediante redes
+Creemos que podríamos aumentar la difusión a 1000 visitas el primer mes, si los jóvenes de entre 17 y 26 años se involucran con el contenido a través de los comentarios o mediante redes
 
 </td><td markdown="1">
 
