@@ -1,8 +1,8 @@
-# Personas #
+# Personas
 
 Cada proyecto necesita personajes-usuarios que representen para quién se está diseñando, que es diferente a elaborar personajes-compradores. No se trata de decir quiénes utilizarían nuestro producto sino hacia quienes está dirigido y por lo tanto, quienes son esas personas concretas que representan las variabilidades de personas que pueden valerse de nuestro proyecto.
 
-Para ello, es necesario establecer un personaje básico que sería aquel que no se identifica con rasgos que otorgamos a otros personajes-usuario sino que constituye el personaje principal por el que este producto sería creado. Además de este puede haber diferentes personajes que también ayuden a representar el tipo de personas por el que se está elaborando el producto
+Para ello, es necesario establecer un personaje básico que sería aquel que no se identifica con rasgos que otorgamos a otros personajes-usuario sino que constituye el personaje principal por el que este producto sería creado. Además de este puede haber diferentes personajes que también ayuden a representar el tipo de personas por el que se está elaborando el producto.
 
 ## Personajes
 
