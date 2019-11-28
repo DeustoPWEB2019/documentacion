@@ -6,11 +6,11 @@ Para ello, es necesario establecer un personaje básico que sería aquel que no 
 
 ## Personajes
 
-## Personaje básico
+### Personaje básico
 
 - Juan, estudiante de último curso en la universidad, de 21 años, interesado por los deportes y por realizar actividades con sus amigxs del tipo que sean, se describe como alguien que “va a lo suyo sin meterse con nadie” y que se ve en el futuro ejerciendo de lo que estudia. Además este año acaba la carrera por lo que está algo preocupado por ver si alcanza, como siempre ha pensado, un puesto en su rama laboral. Solo se interesa por la política si tiene que documentarse para llevar a cabo algún trabajo de clase, por lo demás, no demuestra especial interés alguno.
 
-**Otros personajes**
+### Otros personajes
 
 - Marina, de 18 años, ha decidido hacer un grado superior de trabajo social y ha preferido no ir a la universidad por considerar que no es necesario tener una carrera para ser alguien en la vida. Se considera una persona muy progresista, con las ideas  claras y además es respetuosa con el medioambiente. Vota a Pacma y lleva una dieta vegana.
 
