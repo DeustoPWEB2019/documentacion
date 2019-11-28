@@ -4,7 +4,7 @@ Cada proyecto necesita personajes-usuarios que representen para quién se está 
 
 Para ello, es necesario establecer un personaje básico que sería aquel que no se identifica con rasgos que otorgamos a otros personajes-usuario sino que constituye el personaje principal por el que este producto sería creado. Además de este puede haber diferentes personajes que también ayuden a representar el tipo de personas por el que se está elaborando el producto
 
-## Personajes ##
+## Personajes
 
 ## Personaje básico
 
