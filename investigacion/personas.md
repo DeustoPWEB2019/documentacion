@@ -6,7 +6,7 @@ Para ello, es necesario establecer un personaje básico que sería aquel que no 
 
 ## Personajes ##
 
-**Personaje básico** 
+## Personaje básico
 
 - Juan, estudiante de último curso en la universidad, de 21 años, interesado por los deportes y por realizar actividades con sus amigxs del tipo que sean, se describe como alguien que “va a lo suyo sin meterse con nadie” y que se ve en el futuro ejerciendo de lo que estudia. Además este año acaba la carrera por lo que está algo preocupado por ver si alcanza, como siempre ha pensado, un puesto en su rama laboral.
 
