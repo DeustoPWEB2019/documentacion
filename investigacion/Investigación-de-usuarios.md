@@ -1,8 +1,8 @@
-# Investigación de usuarios #
+# Investigación de usuarios
 
-El objetivo de esta encuesta ha sido obtener información sobre el comportamiento de los usuarios de redes sociales respecto a contenido político.
+El objetivo de esta encuesta ha sido obtener información sobre el comportamiento de los usuarios de redes sociales respecto a contenido político. Hemos decidido llevar a cabo esta encuesta porque hemos elaborado un Canvas y creemos que este método es el más apropiado para confirmar o desmentir algunos de los supuestos en los que hemos basado nuestro planteamiento.
 
-**Análisis**
+## Análisis
 
 Para ello, se ha elaborado un cuestionario a través de Formularios de Google en el que se han recogido un total de 9 preguntas relacionadas con el contenido sobre política en redes sociales. La difusiòn se ha realizado a través de WhatsApp a amigos y conocidos de entre 19 y 26 años. Hemos logrado obtener 21 respuestas y, de entre los participantes, un 81% tenían entre 19 y 22 años, mientras que tan solo un 14,3% tenían entre 23 y 26 años.
 
@@ -18,8 +18,7 @@ Durante la última campaña política, un 66,7% de los participantes en la encue
 
 Nos pareció buena idea abrir un apartado en el que se pudiesen dejar comentarios y/o sugerencias acerca del proyecto que estamos llevando a cabo y nos han hecho llegar la siguiente reflexión: "Es interesante informar más a los jóvenes sobre la política ya que muchos están bastante desinformados".
 
-**Conclusiones**
+## Conclusiones
 
-Hemos podido observar que los jóvenes no comparten tanto contenido político como el que pensábamos previamente. En su mayoría, los que lo hacen, comparten noticias de actualidad haciéndolo, en su mayoría, vía Twitter. Por el contrario, entre los que no comparten, la razón imperante es porque, generalmente, no suelen hacerlo. Asimismo, hemos observado que este tipo de contenido se comparte de igual manera durante una campaña electoral o de manera habitual, ya sea afirmativo o negativo.
-
+Hemos podido observar que los jóvenes no comparten tanto contenido político como el que pensábamos previamente. En su mayoría, los que lo hacen, comparten noticias de actualidad haciéndolo, en su mayoría, vía Twitter. Por el contrario, entre los que no comparten, la razón imperante es porque, generalmente, no suelen hacerlo. Asimismo, hemos observado que este tipo de contenido se comparte de igual manera durante una campaña electoral o de manera habitual, ya sea afirmativo o negativo. Es por ello 
 
