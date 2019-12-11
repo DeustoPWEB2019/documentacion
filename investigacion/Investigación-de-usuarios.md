@@ -20,7 +20,7 @@ Nos pareció buena idea abrir un apartado en el que se pudiesen dejar comentario
 
 ## Gráficos
 
-Gráfico de respuestas de formularios. Título de la pregunta: ¿Sueles compartir contenido político (entendido como declaraciones de políticos pero también movilizaciones sociales, manifestaciones etc.) de manera habitual en tus redes sociales?. Número de respuestas: 21 respuestas.
+![Alt Text](Gráfico de respuestas de formularios. Título de la pregunta: ¿Sueles compartir contenido político (entendido como declaraciones de políticos pero también movilizaciones sociales, manifestaciones etc.) de manera habitual en tus redes sociales?. Número de respuestas: 21 respuestas.)
 
 ## Conclusiones
 
