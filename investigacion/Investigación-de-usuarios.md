@@ -18,6 +18,10 @@ Durante la última campaña política, un 66,7% de los participantes en la encue
 
 Nos pareció buena idea abrir un apartado en el que se pudiesen dejar comentarios y/o sugerencias acerca del proyecto que estamos llevando a cabo y nos han hecho llegar la siguiente reflexión: "Es interesante informar más a los jóvenes sobre la política ya que muchos están bastante desinformados".
 
+## Gráficos
+
+Gráfico de respuestas de formularios. Título de la pregunta: ¿Sueles compartir contenido político (entendido como declaraciones de políticos pero también movilizaciones sociales, manifestaciones etc.) de manera habitual en tus redes sociales?. Número de respuestas: 21 respuestas.
+
 ## Conclusiones
 
 Hemos podido observar que los jóvenes no comparten tanto contenido político como el que pensábamos previamente. En su mayoría, los que lo hacen, comparten noticias de actualidad haciéndolo vía Twitter. Por el contrario, entre los que no comparten, la razón imperante es porque, generalmente, no suelen hacerlo. Asimismo, hemos observado que este tipo de contenido se comparte de igual manera durante una campaña electoral o de manera habitual, ya sea afirmativo o negativo. Es por ello que aplicando estos resultados a nuestra revista online, no compartiremos el contenido en redes sociales ya que hemos visto que no son utilizadas para ello, por lo que sí será una revista que se hará eco en redes para captar a más gente pero no se podrá interactuar más allá de un me gusta o comentario en la misma página de la revista. 
