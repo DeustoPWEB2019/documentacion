@@ -14,7 +14,6 @@ Para ello, es necesario establecer un personaje básico que sería aquel que no 
 
 - Marina, de 18 años, ha decidido hacer un grado superior de trabajo social y ha preferido no ir a la universidad por considerar que no es necesario tener una carrera para ser alguien en la vida. Se considera una persona muy progresista, con las ideas  claras y además es respetuosa con el medioambiente. Vota a Pacma y lleva una dieta vegana.
 
-
 - Pablo, de 24 años, terminó la carrera de Ingeniería hace tres años y aún sigue buscando trabajo de lo que ha estudiado mientras intenta ganarse la vida trabajando en lo que sea para poder independizarse. El único tiempo de ocio que tiene lo destina a descansar y a pasar tiempo con sus amigos, por lo que no se interesa por la política.
 
 - Susana, de 26 años, se ha independizado este año tras haber estudiado la carrera de ADE y Derecho ha encontrado, posteriormente, trabajo como administrativa en un banco. Apasionada por el cine y por realizar actividades con amigxs. Es una persona informada y conservadora.
