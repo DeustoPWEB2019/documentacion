@@ -14,7 +14,7 @@ Para ello, es necesario establecer un personaje básico que sería aquel que no 
 
 - Marina, de 18 años, ha decidido hacer un grado superior de trabajo social y ha preferido no ir a la universidad por considerar que no es necesario tener una carrera para ser alguien en la vida. Se considera una persona muy progresista, con las ideas  claras y además es respetuosa con el medioambiente. Vota a Pacma y lleva una dieta vegana.
 
-- Rosa de 19 años estudia en la universidad el grado de Medicina porque le apasiona, además disfruta haciendo planes con sus amigxs. Se siente condicionada por el pensamiento ideológico de sus parientes, que siempre han votado por la derecha. Ella también lo hace pero admite no estar muy informada sobre la situación política.
+- Rosa, de 19 años, estudia en la universidad el grado de Medicina porque le apasiona, además disfruta haciendo planes con sus amigxs. Se siente condicionada por el pensamiento ideológico de sus parientes, que siempre han votado por la derecha. Ella también lo hace pero admite no estar muy informada sobre la situación política.
 
 - Pablo, de 24 años, terminó la carrera de Ingeniería hace tres años y aún sigue buscando trabajo de lo que ha estudiado mientras intenta ganarse la vida trabajando en lo que sea para poder independizarse. El único tiempo de ocio que tiene lo destina a descansar y a pasar tiempo con sus amigos, por lo que no se interesa por la política.
 
