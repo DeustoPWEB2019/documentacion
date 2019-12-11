@@ -4,7 +4,7 @@ El objetivo de esta encuesta ha sido obtener información sobre el comportamient
 
 ## Análisis
 
-Para ello, se ha elaborado un  [cuestionario a través de Formularios de Google](https://docs.google.com/forms/d/1shirAehow24ilfxtNKVFGYyg_y-8nyjPme4YTeCUiD4/edit) el que se han recogido un total de 9 preguntas relacionadas con el contenido sobre política en redes sociales. La difusiòn se ha realizado a través de WhatsApp a amigos y conocidos de entre 19 y 26 años. Hemos logrado obtener 21 respuestas y, de entre los participantes, un 81% tenían entre 19 y 22 años, mientras que tan solo un 14,3% tenían entre 23 y 26 años.
+Para ello, se ha elaborado un  [cuestionario a través de Formularios de Google](https://docs.google.com/forms/d/1shirAehow24ilfxtNKVFGYyg_y-8nyjPme4YTeCUiD4/edit) el que se han recogido un total de 9 preguntas relacionadas con el contenido sobre política en redes sociales. La difusión se ha realizado a través de WhatsApp a amigos y conocidos de entre 19 y 26 años. Hemos logrado obtener 21 respuestas y, de entre los participantes, un 81% tenían entre 19 y 22 años, mientras que tan solo un 14,3% tenían entre 23 y 26 años.
 
 Ninguna persona encuestada de entre 23 y 26 años comparte contenido político en las redes sociales. Sin embargo, en las edades comprendidas entre 19 y 22 años, un 42,9% afirma haberlo hecho, mientras que una mayoría del 57,1% admite no haber disfundido este tipo de contenido.
 
