@@ -8,7 +8,7 @@ Para ello, se ha elaborado un [cuestionario a través de Formularios de Google](
 
 Ninguna persona encuestada de entre 23 y 26 años comparte contenido político en las redes sociales. Sin embargo, en las edades comprendidas entre 19 y 22 años, un 42,9% afirma haberlo hecho, mientras que una mayoría del 57,1% admite no haber disfundido este tipo de contenido.
 
-De todos los encuestados, un 88,9% comparte noticias de actualidad. Un 66,7% redistribuye publicaciones en redes y un 44,4% difunde memes sobre política.
+De los que han dicho haber compartido contenido político en redes, un 88,9% comparte noticias de actualidad. Un 66,7% redistribuye publicaciones en redes y un 44,4% difunde memes sobre política.
 
 Respecto a las redes, la mayoría de los encuestados (55,6%) prefiere Twitter. Con Facebook e Instagram, que comparten el mismo lugar (ambos 44,4%), en el último puesto se encontraría WhatsApp (33,3%).
 
