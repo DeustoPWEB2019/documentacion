@@ -2,7 +2,9 @@
 
 Más de la mitad de los vascos tiene una cuenta en la plataforma de películas y series, pero muchas de ellas son compartidas
 
-San Sebastián. El 29 de octubre de 2014 llegaba a la Comunidad Autónoma Vasca la posibilidad de crearse una cuenta en Netflix, la plataforma de productos audiovisuales con más seguidores del mundo. Con ello se abría la posibilidad de visionar cientos (casi miles) de productos audiovisuales que podrían llegar a mantener a los espectadores horas y horas ante la televisión, el ordenador o cualquier otro dispositivo que pudiese reproducir la enorme suma de películas, documentales y series que se alojan en la misma.
+San Sebastián. 
+
+El 29 de octubre de 2014 llegaba a la Comunidad Autónoma Vasca la posibilidad de crearse una cuenta en Netflix, la plataforma de productos audiovisuales con más seguidores del mundo. Con ello se abría la posibilidad de visionar cientos (casi miles) de productos audiovisuales que podrían llegar a mantener a los espectadores horas y horas ante la televisión, el ordenador o cualquier otro dispositivo que pudiese reproducir la enorme suma de películas, documentales y series que se alojan en la misma.
 
 **La nueva televisión**
 
