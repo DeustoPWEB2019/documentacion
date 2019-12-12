@@ -18,29 +18,19 @@ Durante la última campaña política, un 66,7% de los participantes en la encue
 
 Nos pareció buena idea abrir un apartado en el que se pudiesen dejar comentarios y/o sugerencias acerca del proyecto que estamos llevando a cabo y nos han hecho llegar la siguiente reflexión: "Es interesante informar más a los jóvenes sobre la política ya que muchos están bastante desinformados".
 
-<<<<<<< HEAD
-
-
-*
-
-
-
-**Conclusiones**
-=======
 ## Gráficos
->>>>>>> Personas
 
-![Alt Text](Gráfico de respuestas de formularios. Título de la pregunta: ¿Sueles compartir contenido político (entendido como declaraciones de políticos pero también movilizaciones sociales, manifestaciones etc.) de manera habitual en tus redes sociales?. Número de respuestas: 21 respuestas.)
+![Gráfico de respuestas de formularios. Título de la pregunta: ¿Sueles compartir contenido político (entendido como declaraciones de políticos pero también movilizaciones sociales, manifestaciones etc.) de manera habitual en tus redes sociales?. Número de respuestas: 21 respuestas.](ruta-a-la-imagen.png)
 
-*Respuestas**
+## Respuestas
 
-<img src="Edad.png">
-<img src="ContenidoCompartido.png">
-<img src="redes.png">
-<img src="motivos.png">
-<img src="Campaña.png">
-<img src="Contenido político.png">
-<img src="Aportaciones.png">
+![descripcion](Edad.png)
+![descripcion](ContenidoCompartido.png)
+![descripcion](redes.png)
+![descripcion](motivos.png)
+![descripcion](Campaña.png)
+![descripcion](Contenido político.png)
+![descripcion](Aportaciones.png)
 
 ## Conclusiones
 
