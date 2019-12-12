@@ -10,7 +10,7 @@ wireframes que creéis para el proyecto web
 
 ## Página principal
 
-<img src="home.png">
+<img src="Home.png">
 
 ## Noticias
 
@@ -31,7 +31,7 @@ wireframes que creéis para el proyecto web
 
 ## Salpicón 
 
-<img src="salpicon.jpg">
+<img src="Salpicon.jpg">
 
 ## Búsqueda
 
