@@ -19,6 +19,14 @@ En este flujo de tareas, partiendo de la página de origen, se podrá clickar en
 
 ![Task flow de me gusta/no me gusta](megustanomegusta.jpg)
 
+## Comentarios
+
+El task flow de los comentarios comienza por la página de origen. Para poder comentar, te pedirá introducir tu email. Si es correcto, te permitirá escribir un comentario. Si finalmente lo escribes, deberás pulsar el botón de *Enter*, que te dará las gracias y te conducirá a la página de origen. En el caso no escribir ningún comentario tras haber introducido el email, aparecerá un mensaje de error que te llevará a la página de origen.
+
+Por otro lado, si al escribir el email hay algún dato incorrecto, te saldrá un mensaje de error que te conducirá a la página de origen.
+
+![Task flow de comentarios](comentarios.svg)
+
 
 
 
