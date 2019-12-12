@@ -1,6 +1,6 @@
-Netflix también cala en el País Vasco
+## Netflix también cala en el País Vasco
 
-La plataforma de origen norteamericano aterrizó hace ya cinco años en el País Vasco, evento que esperaban con ansia la gran cantidad de cinéfilos y seriéfilos residentes en Euskadi
+La plataforma de origen norteamericano aterrizó hace ya cinco años en el País Vasco, evento que esperaban con ansia la gran cantidad de cinéfilos y seriéfilos residentes en Euskadi.
 
 Más de la mitad de los vascos tiene una cuenta en la plataforma de películas y series, pero muchas de ellas son compartidas
 
