@@ -1,16 +1,16 @@
 # Mapa del sitio
 
-<!--
-Recoged el mapa del sitio en este documento en forma de lista
-formateada usando la sintaxis de Markdown, así:
+## Página principal  
++ -  Noticias
 
-- si queréis
-- una lista
-  + sin ordenar
++ -  Caricaturas
 
-o así:
++ -  Bombazo semanal 
 
-1. si queréis
-   1. una lista
-   2. ordenada
--->
+   + Bombazos anteriores 
+   
++ -  Salpicón 
+
++ -  Contacto 
+
++ -  Quiénes somos 
