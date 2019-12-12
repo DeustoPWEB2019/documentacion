@@ -1,16 +1,16 @@
 # Mapa del sitio
 
-## Página principal 
--  Noticias
+## Página principal  
++ -  Noticias
 
--  Caricaturas
++ -  Caricaturas
 
--  Bombazo semanal 
++ -  Bombazo semanal 
 
    + Bombazos anteriores 
    
--  Salpicón 
++ -  Salpicón 
 
--  Contacto 
++ -  Contacto 
 
--  Quiénes somos 
++ -  Quiénes somos 
