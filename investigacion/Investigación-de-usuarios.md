@@ -18,6 +18,20 @@ Durante la última campaña política, un 66,7% de los participantes en la encue
 
 Nos pareció buena idea abrir un apartado en el que se pudiesen dejar comentarios y/o sugerencias acerca del proyecto que estamos llevando a cabo y nos han hecho llegar la siguiente reflexión: "Es interesante informar más a los jóvenes sobre la política ya que muchos están bastante desinformados".
 
+
+
+**Respuestas**
+
+<img src="Edad.png">
+<img src="ContenidoCompartido.png">
+<img src="redes.png">
+<img src="motivos.png">
+<img src="Campaña.png">
+<img src="Contenido político.png">
+<img src="Aportaciones.png">
+
+
+
 **Conclusiones**
 
 Hemos podido observar que los jóvenes no comparten tanto contenido político como el que pensábamos previamente. En su mayoría, los que lo hacen, comparten noticias de actualidad haciéndolo, en su mayoría, vía Twitter. Por el contrario, entre los que no comparten, la razón imperante es porque, generalmente, no suelen hacerlo. Asimismo, hemos observado que este tipo de contenido se comparte de igual manera durante una campaña electoral o de manera habitual, ya sea afirmativo o negativo.
