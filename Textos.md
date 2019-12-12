@@ -12,3 +12,4 @@ Sin embargo, también es capaz de hacer la boca agua de los no tan jóvenes con 
 **Guerra de plataformas**
 
 Si no te gustan las películas de terror, si eres más de películas románticas o si adoras las comedias… No importa, la diversidad en los géneros es la principal ventaja de Netflix. HBO fue el rey de las plataformas audiovisuales durante años produciendo, entre otras, la serie más vista de la historia, la archiconocida (y premiada) Juego de tronos. Eso no se lo van a poder arrebatar, sin embargo, la irrupción de Prime Video (de Amazon) ha hecho que se tambaleen ligeramente los cimientos del nuevo rey y del príncipe de las empresas de entretenimiento, pero aún le queda mucho recorrido para llegar a obtener el éxito de las dos primeras.
+
