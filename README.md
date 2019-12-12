@@ -7,7 +7,7 @@ Aquí deberíais incluir una introducción a vuestro proyecto, explicación de p
 Estructura del repositorio:
 
 1. Objetivos: [Lean UX Canvas](objetivos/leanuxcanvas.md)
-2. Investigación de usuarios: [cuestionario](investigacion/investigación-de-usuarios.md), [personas](investigacion/personas.md)
+2. Investigación de usuarios: [cuestionario](investigacion/investigacion-de-usuarios.md), [personas](investigacion/personas.md)
 2. Estrategia de contenido: [mapa del sitio](estrategiacontenidos/mapadelsitio.md), [diagramas de flujos de tareas](estrategiacontenidos/diagrama.md)
     - [Adaptación de textos para web](textos/adaptacion.md)   
 3. Layout/maquetación: [wireframes](maquetacion/wireframes.md)
