@@ -1,8 +1,14 @@
 # Personas
 
-Cada proyecto necesita personajes-usuarios que representen para quién se está diseñando, que es diferente a elaborar personajes-compradores. No se trata de decir quiénes utilizarían nuestro producto sino hacia quienes está dirigido y por lo tanto, quienes son esas personas concretas que representan las variabilidades de personas que pueden valerse de nuestro proyecto.
+A la hora de llevar a cabo un proyecto, puede sernos de ayuda crear personajes referentes del público objetivo de una manera un tanto detallada. Mediante estas personas ficticias, hemos podido identificar las variables del target que podría hacer uso de, en este caso, nuestra página web. 
 
-Para ello, es necesario establecer un personaje básico que sería aquel que no se identifica con rasgos que otorgamos a otros personajes-usuario sino que constituye el personaje principal por el que este producto sería creado. Además de este puede haber diferentes personajes que también ayuden a representar el tipo de personas por el que se está elaborando el producto.
+Hemos comenzado por definir un personaje básico o, lo que es lo mismo, la persona que no coincide con las características que puede tener el resto, ya que vendría siendo la persona principal por el que fue creada la web. Esta persona llamada Juan es un joven de 21 años, estudiante de universidad, que tiene esperanzas de, en un futuro no muy lejano, conseguir trabajar de lo que ha estudiado. Su interés por la política se limita a la documentación obligatoria a la hora de tener que hacer un trabajo académico, pero no tiene un interés más allá de ello.
+
+En cuanto a los otros personajes y respecto a su carrera académica, decidimos crear tres distintos: una joven estudiante de un grado superior, otro universitario y la última ya trabajadora en un banco tras haber cursado la carrera de ADE y Derecho. La primera, Marina, de 18 años, tiene una percepción sobre sí misma en la que se categoriza como progresista. Podría decirse que presenta cierto interés por la política, por la conciencia social y medioambiental, puesto que es votante del partido político PACMA y, además, lleva una dieta vegana.
+
+La segunda persona, Pablo, que continúa buscando trabajo a los 24 años, no puede disfrutar de demasiado tiempo de ocio puesto que, además de buscar trabajo como ingeniero, está intentando independizarse trabajando en puestos precarios. Es por ello que el poco tiempo que tiene lo destina a descansar y a sus amigos, relegando la política y otros asuntos similares a un segundo plano.
+
+Sin embargo, a Susana, de 26 años y recién independizada gracias a su trabajo como administrativa en un banco, le gusta pasar tiempo con sus amigos y amigas y se considera una persona conservadora.
 
 ## Personajes
 
