@@ -50,7 +50,6 @@ Seguido, el bombazo semanal se ve en el wireframe como la organización de las q
 El último wireframe es el apartado de salpicón que tiene tres informaciones por semana y la opción de dar a me gusta y comentar para que interactúen con el contenido creado.
 También se ha creado uno con la opción de buscador, que es una lupa en la que se mete lo que cada uno quiera buscar y se obtienen diferentes informaciones.
 
-
 ---
 
 Elaborado por [Ainara Aguilar](http://ainara-web.github.io), [Olatz Balda](http://olatzbalda.github.io), [Camille Peigné](http://camillepeigne.github.io) y [María Saavedra](http://mariasaav.github.io).
