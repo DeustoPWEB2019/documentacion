@@ -16,7 +16,7 @@ Estructura del repositorio:
 
 2. Investigación de usuarios: [cuestionario](investigacion/investigacion-de-usuarios.md), [personas](investigacion/personas.md)
 
-**Cuestionario:*
+**Cuestionario:**
 
 
 
