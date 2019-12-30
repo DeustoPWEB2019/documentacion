@@ -1,5 +1,5 @@
 # Adaptación de textos de prensa a la web
-En esta tarea se ha tratado modificar la redacción de dos reportajes y un texto de opinión de presna escrita al soporte web. El objetivo de las alteraciones ha sido mantener la coherencia y el propósito de los tres textos originales, alterando el formato y la estructura para obtener una redacción más directa. 
+En esta tarea se ha tratado modificar la redacción de dos reportajes y un texto de opinión de prensa escrita al soporte web. El objetivo de las alteraciones ha sido mantener la coherencia y el propósito de los tres textos originales, alterando el formato y la estructura para obtener una redacción más directa. 
 
 ## Adaptación del reportaje sobre el pintxopote
 Para tener una referencia en la adaptación de este texto a un formato de prensa escrita a un soporte web se han utilizado el texto proporcionado en clase y las lecturas correspondientes al resto de compañeras. El objetivo de esta tarea era aprender a modificar la información a otro soporte y comprender que la redacción de un texto web ha de ser más directa y concisa. 
