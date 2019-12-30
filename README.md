@@ -11,15 +11,9 @@ Para determinar el público se han creado unos personajes que representan cuales
 Estructura del repositorio:
 
 1. Objetivos: [Lean UX Canvas](objetivos/leanuxcanvas.md)
-
-
-
 2. Investigación de usuarios: [cuestionario](investigacion/investigacion-de-usuarios.md), [personas](investigacion/personas.md)
-
+<!--
 **Cuestionario:**
-
-
-
 **Personas:**
 
 A la hora de llevar a cabo un proyecto, puede sernos de ayuda crear personajes referentes del público objetivo de una manera un tanto detallada. Mediante estas personas ficticias, hemos podido identificar las variables del target que podría hacer uso de, en este caso, nuestra página web. 
@@ -31,9 +25,10 @@ En cuanto a los otros personajes y respecto a su carrera académica, decidimos c
 La segunda persona, Pablo, que continúa buscando trabajo a los 24 años, no puede disfrutar de demasiado tiempo de ocio puesto que, además de buscar trabajo como ingeniero, está intentando independizarse trabajando en puestos precarios. Es por ello que el poco tiempo que tiene lo destina a descansar y a sus amigos, relegando la política y otros asuntos similares a un segundo plano.
 
 Sin embargo, a Susana, de 26 años y recién independizada gracias a su trabajo como administrativa en un banco, le gusta pasar tiempo con sus amigos y amigas y se considera una persona conservadora.
-
+-->
 2. Estrategia de contenido: [mapa del sitio](estrategiacontenidos/mapadelsitio.md), [diagramas de flujos de tareas](estrategiacontenidos/diagrama.md)
-
+    - [Adaptación de textos para web](textos/adaptacion.md)
+<!--
 **Mapa del sitio:** 
 
 La creación de un mapa del sitio sirve para que el creador de la página web sepa ubicar el contenido en cada uno de los apartados de la misma y sea capaz de esquematizar cada sección. En este caso, hemos decidido dividir nuestra página en seis sectores principales, las mismas si la revista fuese en formato físico; Noticias, Caricaturas, Bombazo semanal, Salpicón, Contacto y Quiénes somos. 
@@ -43,14 +38,9 @@ Para facilitar la lectura de publicaciones anteriores a nuestros consumidores, d
 **Diagramas de flujos de tareas:**
 
 
-
-    - [Adaptación de textos para web](textos/adaptacion.md)   
-    
-    
-    
-    
+-->
 3. Layout/maquetación: [wireframes](maquetacion/wireframes.md)
-
+<!---
 Los wireframes constituyen los dibujos que contienen la información de cada una de las secciones que tendrá nuestra web. De esta forma, se ofrece una visión previa de lo que será nuestra pagina por dentro y cómo aparecerán ubicadas las secciones dentro de la misma, así como, cuál será la forma de acceder a cada una de ellas.
 
 En este caso, creamos una llamada home, que contiene la previsualización de lo que será la página principal de la revista. En ella, aparecen la caricatura de la semana, tres últimas informaciones y en la barra superior las demás opciones a las que poder acceder que son las secciones de la revista. Además en todas las posibles páginas, en la parte inferior se da la opción de contacto y de quienes somos para que se pueda obtener más información acerca de quiénes hacen el contenido.
@@ -63,6 +53,7 @@ Seguido, el bombazo semanal se ve en el wireframe como la organización de las q
 
 El último wireframe es el apartado de salpicón que tiene tres informaciones por semana y la opción de dar a me gusta y comentar para que interactúen con el contenido creado.
 También se ha creado uno con la opción de buscador, que es una lupa en la que se mete lo que cada uno quiera buscar y se obtienen diferentes informaciones.
+-->
 
 ---
 
