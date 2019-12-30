@@ -26,7 +26,7 @@ La segunda persona, Pablo, que continúa buscando trabajo a los 24 años, no pue
 
 Sin embargo, a Susana, de 26 años y recién independizada gracias a su trabajo como administrativa en un banco, le gusta pasar tiempo con sus amigos y amigas y se considera una persona conservadora.
 -->
-2. Estrategia de contenido: [mapa del sitio](estrategiacontenidos/mapadelsitio.md), [diagramas de flujos de tareas](estrategiacontenidos/diagrama.md)
+3. Estrategia de contenido: [mapa del sitio](estrategiacontenidos/mapadelsitio.md), [diagramas de flujos de tareas](estrategiacontenidos/diagrama.md)
     - [Adaptación de textos para web](textos/adaptacion.md)
 <!--
 **Mapa del sitio:** 
@@ -36,10 +36,8 @@ La creación de un mapa del sitio sirve para que el creador de la página web se
 Para facilitar la lectura de publicaciones anteriores a nuestros consumidores, decidimos crear un apartado distinto dentro de Bombazo semanal, cuyo nombre será Bombazos anteriores, ya que ahí se reunirán las noticias de gran calado de semanas anteriores.
 
 **Diagramas de flujos de tareas:**
-
-
 -->
-3. Layout/maquetación: [wireframes](maquetacion/wireframes.md)
+4. Layout/maquetación: [wireframes](maquetacion/wireframes.md)
 <!---
 Los wireframes constituyen los dibujos que contienen la información de cada una de las secciones que tendrá nuestra web. De esta forma, se ofrece una visión previa de lo que será nuestra pagina por dentro y cómo aparecerán ubicadas las secciones dentro de la misma, así como, cuál será la forma de acceder a cada una de ellas.
 
