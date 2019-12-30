@@ -1,6 +1,6 @@
-# NOMBREDELSITIO
+# Política y Pipas
 
-Documentación para el proyecto de sitio web NOMBREDELSITIO.
+Documentación para el proyecto de sitio web Política y Pipas.
 
 Este proyecto se basa en la creación de una revista adaptada a la web, para lo que se ha tenido que crear una previsualización de lo que contiene y cómo debe ser llevado al formato antes nombrado. 
 
